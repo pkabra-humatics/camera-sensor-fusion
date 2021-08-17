@@ -1,0 +1,342 @@
+
+runfile('/home/pkabra/Documents/calib.py', wdir='/home/pkabra/Documents')
+Searching for chessboard in frame 0...
+ok
+Searching for chessboard in frame 200...
+ok
+Searching for chessboard in frame 400...
+ok
+Searching for chessboard in frame 600...
+ok
+Searching for chessboard in frame 800...
+ok
+Searching for chessboard in frame 1000...
+ok
+Searching for chessboard in frame 1200...
+ok
+Searching for chessboard in frame 1400...
+ok
+Searching for chessboard in frame 1600...
+ok
+Searching for chessboard in frame 1800...
+ok
+Searching for chessboard in frame 2000...
+ok
+Searching for chessboard in frame 2200...
+ok
+Searching for chessboard in frame 2400...
+ok
+Searching for chessboard in frame 2600...
+not found
+Searching for chessboard in frame 2800...
+ok
+Searching for chessboard in frame 3000...
+ok
+Searching for chessboard in frame 3200...
+ok
+Searching for chessboard in frame 3400...
+ok
+Searching for chessboard in frame 3600...
+ok
+Searching for chessboard in frame 3800...
+ok
+Searching for chessboard in frame 4000...
+ok
+Searching for chessboard in frame 4200...
+ok
+Searching for chessboard in frame 4400...
+not found
+Searching for chessboard in frame 4600...
+ok
+Searching for chessboard in frame 4800...
+ok
+Searching for chessboard in frame 5000...
+ok
+Searching for chessboard in frame 5200...
+not found
+Searching for chessboard in frame 5400...
+ok
+Searching for chessboard in frame 5600...
+not found
+Searching for chessboard in frame 5800...
+ok
+Searching for chessboard in frame 6000...
+ok
+Searching for chessboard in frame 6200...
+ok
+Searching for chessboard in frame 6400...
+ok
+Searching for chessboard in frame 6600...
+ok
+Searching for chessboard in frame 6800...
+ok
+Searching for chessboard in frame 7000...
+ok
+Searching for chessboard in frame 7200...
+ok
+Searching for chessboard in frame 7400...
+ok
+Searching for chessboard in frame 7600...
+ok
+Searching for chessboard in frame 7800...
+ok
+Searching for chessboard in frame 8000...
+ok
+Searching for chessboard in frame 8200...
+ok
+Searching for chessboard in frame 8400...
+not found
+Searching for chessboard in frame 8600...
+ok
+Searching for chessboard in frame 8800...
+ok
+Searching for chessboard in frame 9000...
+ok
+Searching for chessboard in frame 9200...
+ok
+Searching for chessboard in frame 9400...
+ok
+Searching for chessboard in frame 9600...
+ok
+Searching for chessboard in frame 9800...
+not found
+Searching for chessboard in frame 10000...
+ok
+Searching for chessboard in frame 10200...
+not found
+Searching for chessboard in frame 10400...
+ok
+Searching for chessboard in frame 10600...
+ok
+Searching for chessboard in frame 10800...
+ok
+Searching for chessboard in frame 11000...
+ok
+Searching for chessboard in frame 11200...
+not found
+Searching for chessboard in frame 11400...
+ok
+Searching for chessboard in frame 11600...
+ok
+Searching for chessboard in frame 11800...
+not found
+
+Performing calibration...
+RMS: 1.1552091528300796
+camera matrix:
+ [[1.99850287e+03 0.00000000e+00 9.30264208e+02]
+ [0.00000000e+00 2.00221083e+03 4.55807365e+02]
+ [0.00000000e+00 0.00000000e+00 1.00000000e+00]]
+new camera matrix:
+ [[1.63104834e+03 0.00000000e+00 9.18026417e+02]
+ [0.00000000e+00 1.63188391e+03 4.54499399e+02]
+ [0.00000000e+00 0.00000000e+00 1.00000000e+00]]
+distortion coefficients:  [[-5.01667205e-01  3.40523474e-01  5.70452575e-03  1.13295688e-04
+  -2.03307530e-01]]
+rvecs:  [array([[ 0.38882277],
+       [ 0.19055606],
+       [-3.06435758]]), array([[ 0.38996793],
+       [ 0.18857794],
+       [-3.06443496]]), array([[ 0.70628107],
+       [ 0.32030689],
+       [-2.97002556]]), array([[-0.01633996],
+       [-0.62465425],
+       [ 3.06937862]]), array([[ 0.20816751],
+       [-0.6218416 ],
+       [ 3.05296402]]), array([[ 0.45812563],
+       [ 0.47473141],
+       [-3.04367009]]), array([[ 0.06362422],
+       [ 0.24063596],
+       [-3.13270396]]), array([[ 0.22684333],
+       [-0.35996771],
+       [ 3.08121858]]), array([[ 0.69522733],
+       [ 0.15885292],
+       [-2.96132584]]), array([[ 0.19810758],
+       [-0.22664675],
+       [ 3.0930231 ]]), array([[ 0.72588639],
+       [ 0.30806446],
+       [-2.96400012]]), array([[ 0.70734021],
+       [ 0.54265893],
+       [-2.89419553]]), array([[ 0.5294405 ],
+       [ 0.37994293],
+       [-2.96761292]]), array([[ 0.19182712],
+       [-0.76649266],
+       [ 3.0064929 ]]), array([[ 0.70318292],
+       [ 0.85094204],
+       [-2.87690638]]), array([[ 0.68655909],
+       [ 0.52531682],
+       [-2.90244029]]), array([[ 0.07806402],
+       [ 0.8439948 ],
+       [-3.02532364]]), array([[ 0.71624021],
+       [ 0.85235061],
+       [-2.85355738]]), array([[ 0.66889544],
+       [ 1.22872255],
+       [-2.65139762]]), array([[-0.00578855],
+       [ 1.39890524],
+       [-2.82399086]]), array([[-0.19186214],
+       [ 1.20085488],
+       [-2.95611499]]), array([[ 5.55351373e-05],
+       [ 1.14038880e+00],
+       [-2.93376036e+00]]), array([[-0.16460876],
+       [ 1.25263737],
+       [-2.92688109]]), array([[ 0.68688723],
+       [ 1.26457974],
+       [-2.63310428]]), array([[-0.32684379],
+       [-0.18237896],
+       [ 3.08970961]]), array([[0.19666619],
+       [0.17689316],
+       [3.1183473 ]]), array([[-0.77063415],
+       [-0.01343727],
+       [ 3.02075287]]), array([[ 0.63403968],
+       [-0.26681246],
+       [-3.04134644]]), array([[0.22973576],
+       [0.00795827],
+       [3.12886643]]), array([[ 0.72985866],
+       [-0.2259264 ],
+       [-3.02997813]]), array([[-0.69685394],
+       [ 0.21318907],
+       [ 2.9367391 ]]), array([[-0.21840718],
+       [-0.41150543],
+       [-3.09458432]]), array([[-0.14634945],
+       [ 0.36708209],
+       [ 3.09126074]]), array([[-0.22817822],
+       [-0.36976267],
+       [-3.09502018]]), array([[-0.19681042],
+       [-0.63761342],
+       [-3.04578257]]), array([[-0.17757037],
+       [ 0.5294969 ],
+       [ 3.04388455]]), array([[-0.09349753],
+       [ 0.95217844],
+       [ 2.9758565 ]]), array([[-0.06969439],
+       [ 0.65211257],
+       [ 3.0504711 ]]), array([[-0.35115399],
+       [-0.55536038],
+       [-3.01853872]]), array([[-0.2917504 ],
+       [-0.54678545],
+       [-3.03652801]]), array([[-0.41445596],
+       [ 0.95140288],
+       [ 2.81795606]]), array([[0.01599638],
+       [1.39747631],
+       [2.80628771]]), array([[0.20655588],
+       [1.38582328],
+       [2.84359978]]), array([[-0.37256715],
+       [-0.92019488],
+       [-2.87311772]]), array([[-0.3774223 ],
+       [-0.92823284],
+       [-2.86670301]]), array([[-0.14352819],
+       [-0.87345282],
+       [-2.99677402]]), array([[-0.42480108],
+       [-1.11674207],
+       [-2.84550937]]), array([[-0.11498919],
+       [-1.23048074],
+       [-2.88347868]]), array([[-0.97943107],
+       [-1.00010959],
+       [-2.69958907]]), array([[-0.05833143],
+       [ 0.49991322],
+       [ 3.09173413]]), array([[-0.06699034],
+       [ 0.15711115],
+       [ 3.12054825]])]
+tvecs:  [array([[ 3.07827001],
+       [10.50833649],
+       [39.86580648]]), array([[ 3.07863921],
+       [10.51016078],
+       [39.85979053]]), array([[-5.86334043],
+       [ 7.18124117],
+       [40.2075584 ]]), array([[12.90882771],
+       [-0.85073114],
+       [38.98955278]]), array([[18.39255724],
+       [-0.53138991],
+       [36.73655958]]), array([[ 1.35581155],
+       [ 3.10853866],
+       [40.99323797]]), array([[10.88745284],
+       [ 8.35073231],
+       [38.93041197]]), array([[19.13419411],
+       [ 5.70254027],
+       [36.1180891 ]]), array([[-5.78252733],
+       [11.32141948],
+       [39.37336187]]), array([[18.76792984],
+       [ 8.99873869],
+       [35.76830826]]), array([[-6.3745795 ],
+       [ 7.32134541],
+       [40.08355831]]), array([[-6.61460467],
+       [ 7.16155611],
+       [40.57653415]]), array([[-1.82353769],
+       [11.74693411],
+       [40.14534646]]), array([[18.29159482],
+       [ 1.85145841],
+       [37.37043829]]), array([[-5.92544963],
+       [-1.40323363],
+       [41.03161167]]), array([[-6.06253825],
+       [ 7.69868331],
+       [40.5785541 ]]), array([[12.09997679],
+       [-0.17391173],
+       [39.88816113]]), array([[-6.46192701],
+       [-0.15656119],
+       [41.10405645]]), array([[-6.73425853],
+       [-0.79530357],
+       [41.84455452]]), array([[13.62286045],
+       [-2.87663845],
+       [40.05534942]]), array([[18.57273936],
+       [ 3.19928832],
+       [38.1473697 ]]), array([[13.94281763],
+       [ 4.48603765],
+       [40.05016211]]), array([[17.8223855 ],
+       [ 1.75700099],
+       [38.54901223]]), array([[-7.19916659],
+       [-1.95477508],
+       [41.69090292]]), array([[ 4.51949108],
+       [-1.34837294],
+       [39.84652962]]), array([[18.3295786 ],
+       [ 7.60025703],
+       [35.24936655]]), array([[-5.46929915],
+       [ 3.11397959],
+       [39.57695127]]), array([[-3.19107724],
+       [11.07739011],
+       [38.84260621]]), array([[18.97022513],
+       [ 3.32717977],
+       [35.35348305]]), array([[-5.71821889],
+       [ 9.67626441],
+       [38.84713365]]), array([[-5.38244066],
+       [-1.56507781],
+       [38.7944183 ]]), array([[18.69860885],
+       [ 3.41104112],
+       [34.54192   ]]), array([[ 9.93432034],
+       [ 2.59736684],
+       [37.97063237]]), array([[18.90980262],
+       [ 2.26627828],
+       [34.48149952]]), array([[17.94091477],
+       [ 2.05038049],
+       [34.36738949]]), array([[ 9.08128171],
+       [-0.8917465 ],
+       [37.62820563]]), array([[10.69437222],
+       [10.35447743],
+       [36.2010685 ]]), array([[10.87479142],
+       [ 2.69333346],
+       [37.32443192]]), array([[13.40300483],
+       [ 0.79962524],
+       [31.67073461]]), array([[17.52245237],
+       [-0.16525163],
+       [41.7926099 ]]), array([[-4.96740473],
+       [-0.7618098 ],
+       [44.10536179]]), array([[ 8.7830762 ],
+       [11.43993526],
+       [42.31206777]]), array([[14.14899331],
+       [10.641858  ],
+       [41.06600364]]), array([[20.29782464],
+       [-1.71782198],
+       [39.47286335]]), array([[14.03013759],
+       [-1.55144163],
+       [38.51096582]]), array([[-6.76943822],
+       [ 1.77327498],
+       [39.18592707]]), array([[ 1.13014515],
+       [ 9.26736341],
+       [39.18682105]]), array([[-7.61585785],
+       [11.10139883],
+       [37.79630721]]), array([[15.78316933],
+       [10.68061597],
+       [35.55308642]]), array([[-7.49836277],
+       [11.95788296],
+       [39.11367985]]), array([[-7.47435308],
+       [ 3.03749444],
+       [40.62927706]])]
+x,y,w,h= 57 71 1795 916
