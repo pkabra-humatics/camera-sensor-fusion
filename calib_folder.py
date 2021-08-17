@@ -13,7 +13,8 @@ import os.path
 from os import path
 
 if __name__ == '__main__':
-# hard coding camera parameters obtained from calibration, current parameters are from every 50th frame of calib_big.h264
+# hard coding camera parameters obtained from calibration, current parameters are from every 50th frame of calib_big.mp4
+# drive link for calib_big.mp4 : https://drive.google.com/file/d/1aChxXT8hb079eVEwFcDuQDlDkHjV72GW/view?usp=sharing
     camera_matrix = cv2.UMat(np.array([
                       [2000.98323, 0, 924.558794],
                       [0, 2004.29646, 462.122541],
