@@ -4,6 +4,7 @@ Spyder Editor
 
 This is a temporary script file.
 """
+# Outputs camera matrix, distortion coefficients, rms error, roi to crop black border in the image
 
 #!/usr/bin/env python
 import numpy as np
